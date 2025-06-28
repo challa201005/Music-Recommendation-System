@@ -19,9 +19,8 @@ This project fetches audio features of tracks from a Spotify playlist and builds
 
 1. **Clone the repository** (if applicable):
    ```bash
-  git clone https://github.com/challa201005/Music-Recommendation-System.git
-cd Music-Recommendation-System
-
+   git clone https://github.com/challa201005/Music-Recommendation-System.git
+   cd spotify-recommendation-System
    ```
 
 2. **Install required packages**:
@@ -94,3 +93,5 @@ Hybrid recommended songs for 'Oka Maaru':
 
 - Recommendations are based on audio features and adjusted using **popularity weighted by release recency**
 - Missing or invalid track names will be gracefully handled
+
+
