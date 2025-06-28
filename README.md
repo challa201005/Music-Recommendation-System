@@ -19,8 +19,9 @@ This project fetches audio features of tracks from a Spotify playlist and builds
 
 1. **Clone the repository** (if applicable):
    ```bash
-   git clone https://github.com/your-username/spotify-recommender.git
-   cd spotify-recommender
+  git clone https://github.com/challa201005/Music-Recommendation-System.git
+cd Music-Recommendation-System
+
    ```
 
 2. **Install required packages**:
